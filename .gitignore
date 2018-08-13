@@ -1,0 +1,8 @@
+.idea/*
+routers/commentsRouter*
+go_qiniu_upload
+lastupdate.tmp
+swagger/
+logs/
+*.log
+*.pid
